@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/user_textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="fred"
+            android:textSize="24dp"
+            android:layout_margin="15dp"
+            />
+        <View
+            android:layout_below="@id/user_textView"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/black"/>
+
+</RelativeLayout>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "248190800004",
+    "project_id": "jumbechat",
+    "storage_bucket": "jumbechat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248190800004:android:c0a1f712ac9d4c6b9c32d1",
+        "android_client_info": {
+          "package_name": "com.example.jumbechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248190800004-5l5rfjp2g6jq5ltupaje4tt5b8gcpdgf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jumbechat",
+            "certificate_hash": "711edf991f280f66e70cdd137d5d4ef31434485d"
+          }
+        },
+        {
+          "client_id": "248190800004-49kvjnas8h2dhr5hm6dupfmg5b9hm470.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnEmaAzbsLTzANOSxfC5bIuBAtQotJ8g8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248190800004-49kvjnas8h2dhr5hm6dupfmg5b9hm470.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

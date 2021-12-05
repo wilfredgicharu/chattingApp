@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JumbeChat</string>
+    <string name="user_name">Email</string>
+    <string name="login">LOGIN</string>
+    <string name="hint_password">****</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="logOut">Log Out</string>
+</resources>
