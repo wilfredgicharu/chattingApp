@@ -57,7 +57,7 @@ class LoginActivity : AppCompatActivity() {
                 } else {
                     // If sign in fails, display a message to the user.
 
-                    Toast.makeText(this, "Unable to Sign In", Toast.LENGTH_SHORT).show()
+                    Toast.makeText(this, "Unable to Sign In, please try again", Toast.LENGTH_SHORT).show()
                 }
             }
 
